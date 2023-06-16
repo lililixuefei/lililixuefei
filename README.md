@@ -4,7 +4,10 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
-lililixuefei/lililixuefei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  
+![Xuefei's GitHub stats](https://github-readme-stats.vercel.app/api?username=lililixuefei)
+
+
+
+![image](https://github.com/lililixuefei/lililixuefei/assets/50048476/6c806ee4-2a63-46ab-a6cb-c97f69d11381)
+
