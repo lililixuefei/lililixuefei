@@ -1,13 +1,6 @@
-- 👋 Hi, I’m @lililixuefei
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
+# Hello! 👋
   
 ![Xuefei's GitHub stats](https://github-readme-stats.vercel.app/api?username=lililixuefei)
 
-
-
-![image](https://github.com/lililixuefei/lililixuefei/assets/50048476/6c806ee4-2a63-46ab-a6cb-c97f69d11381)
 
